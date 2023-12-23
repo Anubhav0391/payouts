@@ -8,8 +8,7 @@ It is a simple &amp; static dashboard, where payouts &amp; refunds can be viewed
 
 ## Developers:
 
-1. `Swipe Team` : Responsible for feature 1, 3 & 4.
-2. `Anubhav Dixit` : Responsible for feature 2 & 3.
+`Anubhav Dixit`
 
 ## Used Tech Stack :
 
